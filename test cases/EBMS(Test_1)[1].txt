@@ -1,0 +1,206 @@
+Welcome to Electronic Bidding Management System
+-----------------------------------------------------
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+1
+Are You a New User:
+1.Yes
+2.No
+1
+Name               :d
+Mobile Number      :2324
+E-mail             :sd
+Address            :ad
+Enter your username: 1
+Enter your password: 1
+Seller account created successfully.
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+1
+Are You a New User:
+1.Yes
+2.No
+1
+Name               :as
+Mobile Number      :234
+E-mail             :assd
+Address            :sdfds
+Enter your username: 2
+Enter your password: 2
+Seller account created successfully.
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+2
+Are You a New User:
+1.Yes
+2.No
+1
+Name               :as
+Mobile Number      :123
+E-mail             :fdg
+Address            :dds
+Enter your username: 3
+Enter your password: 3
+Buyer account created successfully.
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+2
+Are You a New User:
+1.Yes
+2.No
+2
+Enter your username: 3
+Enter your password: 3
+Welcome, as!
+
+Mobile Number: 123!
+
+E-mail:        fdg!
+
+Address:       dds!
+
+Do You wanna add your Bid List!
+1.Yes
+2.No
+1
+Enter your bid items:
+book
+Enter Minimum Value for the above BID
+100
+Do You Want to close the bid
+1.Yes
+2.No
+2
+Your items bid is continuedd....
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+1
+Are You a New User:
+1.Yes
+2.No
+2
+Enter your username: 1
+Enter your password: 1
+Welcome, d!
+
+Mobile Number: 2324!
+
+E-mail: sd!
+
+Address: ad!
+
+Do you wanna bid ?
+1.Yes
+2.No
+1
+Buyer Name:                   as
+
+Buyer BID ITEMS:              book
+
+Minimum valu for above items: 100
+
+Enter Name Of the buyer you want to bid
+as
+Enter your bid value
+200
+Your Bid has be taken successfully
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+1
+Are You a New User:
+1.Yes
+2.No
+2
+Enter your username: 2
+Enter your password: 2
+Welcome, as!
+
+Mobile Number: 234!
+
+E-mail: assd!
+
+Address: sdfds!
+
+Do you wanna bid ?
+1.Yes
+2.No
+1
+Buyer Name:                   as
+
+Buyer BID ITEMS:              book
+
+Minimum valu for above items: 100
+
+Enter Name Of the buyer you want to bid
+as
+Enter your bid value
+250
+Your Bid has be taken successfully
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+2
+Are You a New User:
+1.Yes
+2.No
+2
+Enter your username: 3
+Enter your password: 3
+Welcome, as!
+
+Mobile Number: 123!
+
+E-mail:        fdg!
+
+Address:       dds!
+
+Do You wanna add your Bid List!
+1.Yes
+2.No
+2
+Thank You
+Do You Want to close the bid
+1.Yes
+2.No
+1
+hi
+hi
+Your bid is finilised to:
+Your Bid is Closed!!
+-----------------------------------------------------
+Are you a
+1.Seller
+2.Buyer
+3.Admin
+4.Exit
+
+//AS in this test case report the for loop is running successfully 
+
+
